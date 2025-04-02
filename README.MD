@@ -45,3 +45,18 @@
 - Blade templates for dynamic content rendering
 
 ---
+ ## 🎬 Previews : ##
+ </br>
+
+
+![Screenshot Travela Blog](https://raw.githubusercontent.com/duonyyy/PHP-TRAVELABLOG/519f460289ef2fc48b77e8dc073eec0120c2acee/images/github/Screenshot%202025-04-02%20195559.png)
+
+![Screenshot Travela Blog 2](https://raw.githubusercontent.com/duonyyy/PHP-TRAVELABLOG/519f460289ef2fc48b77e8dc073eec0120c2acee/images/github/Screenshot%202025-04-02%20195534.png)
+
+![Screenshot 1](https://raw.githubusercontent.com/duonyyy/PHP-TRAVELABLOG/519f460289ef2fc48b77e8dc073eec0120c2acee/images/github/Screenshot%202025-04-02%20195639.png)
+![Screenshot 2](https://raw.githubusercontent.com/duonyyy/PHP-TRAVELABLOG/519f460289ef2fc48b77e8dc073eec0120c2acee/images/github/Screenshot%202025-04-02%20195653.png)
+![Screenshot 3](https://raw.githubusercontent.com/duonyyy/PHP-TRAVELABLOG/519f460289ef2fc48b77e8dc073eec0120c2acee/images/github/Screenshot%202025-04-02%20195719.png)
+![Screenshot 4](https://raw.githubusercontent.com/duonyyy/PHP-TRAVELABLOG/519f460289ef2fc48b77e8dc073eec0120c2acee/images/github/Screenshot%202025-04-02%20195802.png)
+![Screenshot 5](https://raw.githubusercontent.com/duonyyy/PHP-TRAVELABLOG/519f460289ef2fc48b77e8dc073eec0120c2acee/images/github/Screenshot%202025-04-02%20195819.png)
+![Screenshot 6](https://raw.githubusercontent.com/duonyyy/PHP-TRAVELABLOG/519f460289ef2fc48b77e8dc073eec0120c2acee/images/github/Screenshot%202025-04-02%20195835.png)
+![Screenshot 7](https://raw.githubusercontent.com/duonyyy/PHP-TRAVELABLOG/519f460289ef2fc48b77e8dc073eec0120c2acee/images/github/Screenshot%202025-04-02%20195848.png)
